@@ -7,7 +7,19 @@ introduction to the lecture series, overview of the assignment, introduction to 
 [slideset session 1](ID2-WS-24-09-10_IntroLecture%20sml.pdf) 
 
 ## workshop / homework task
+* Form groups of 3 students (2 students only allowed if class numbers do not allow all groups to be 3 students)
+### Group task 1:
+* Make a personal statement on Berlin fashion/image  (one statement per group member)
+* Ten +ve factors about Berlin fashion/image & Ten -ve factors about Berlin fashion/image
+* Printed/drawn Berlin fashion/image mindmap
+* Three initial researched concept ideas to discuss
 
+* 1 Statement (individual)
+  What do I love/hate/think/want to change/etc… about the Berlin fashion/image?
+* 2 Find +ve and -ve factors and explain in depth:
+* 3 Mindmapping:
+  Make a messy/organized/beautiful/ugly hand-drawn or digital mind map. Brainstorm together, everyone should contribute. Hand drawn or digital please print and bring to next class.
+  
 # Session 2
 session decription
 [slideset session 2]( ) 
