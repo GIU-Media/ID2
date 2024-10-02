@@ -7,7 +7,8 @@
 * Jesse James Garrett "The Elements of User Experience, User-Centered Design for the Web" 
   http://www.jjg.net/elements/
   also see the two 'elements' diagrams'
-  [the elements](Elements_of_User_Experience_-_Jesse_James_Garrett.png)
+  ** [the elements](Elements_of_User_Experience_-_Jesse_James_Garrett.png)
+  ** [5 layers](5%20layers%20.webp)
   
 
 * Isuu: The Berlin Design Guide
