@@ -23,7 +23,7 @@ introduction to the lecture series, overview of the assignment, introduction to 
 
 # Session 2
 Exploring Design Systems for dDigital Products
-[slideset session 2]( ) 
+[slideset session 2](ID2-WS-24-02_Intro_topic_user_research.pdf) 
 
 ## workshop / homework task
 Form groups, max 3 no exceptions, identify further factors or develop existing factors that influence “Berlin Fashion/image”.  Group chooses strongest concept and research in depth. Concept should be unusual, creative, interesting, and thoughtful. Check out experimental websites before you decide. Create a pdf presentation and for each concept include the below:
