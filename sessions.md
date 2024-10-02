@@ -4,7 +4,7 @@
 
 # Session 1
 introduction to the lecture series, overview of the assignment, introduction to the 5 Layer model of web design 
-[slideset session 1](ID2-WS-24-09-10_IntroLecture sml.pdf) 
+[slideset session 1](ID2-WS-24-09-10_IntroLecture%20sml.pdf) 
 
 ## workshop / homework task
 
