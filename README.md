@@ -64,3 +64,24 @@ Students must provide their personal computers (laptops), and Adobe Creative Clo
 
 Software: Figma, Adobe InDesign, Illustrator, Photoshop 
 
+# Assessment / Course Weights  
+* Assignments 30% 
+* Midterm 10% 
+* Final Project 60% 
+
+ Late Work Policy  Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval. In case of late submission without any serious reason grade will be reduced.  
+
+## Course Policies
+Attend Class Students are expected to attend all class sessions as listed on the course calendar.  
+Build Rapport  If you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that they can help you find a solution.
+
+## Complete Assignments
+Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. All discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will affect the student’s grade.
+
+## Commit to Integrity
+As a student in this course (and at this university) you are expected to maintain high degrees of professionalism, commitment to active learning and participation in this class and also integrity in your behaviour in and out of the classroom
+
+Academic Dishonesty: Any form of academic dishonesty, including copying, cheating and plagiarism, may be reported to the office of student affairs.
+
+Course policies are subject to change. It is the student’s responsibility to check the syllabus regularly on the student intranet for corrections or updates to the syllabus. Any changes will be posted on the intranet.
+
