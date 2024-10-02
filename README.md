@@ -1,6 +1,6 @@
 [overview](README.md) | [references](references.md) | [sessions](sessions.md)
 
-[https://giu-media.github.io/id2](https://giu-media.github.io/id2)
+[https://giu-media.github.io/ID2](https://giu-media.github.io/ID2)
 
 # Interaction Design 2
 course materials for Interaction Design 2 
