@@ -17,3 +17,8 @@
 * Intro to the Bauhaus Style: Quartz
    https://www.youtube.com/watch?v=X59FCW3vOlE 
   
+* Stapelkamp, T. (2010). Interaction- und Interfacedesign Web-, Game-, Produkt- und Servicedesign ; Usability und Interface als Corporate Identity. Heidelberg: Springer. 
+* Löwgren, J., & Stolterman, E. (2007). Thoughtful interaction design: a design perspective on information technology. Cambridge (Mass.): MIT Press. 
+* Polaine, A., Løvlie, L., & Reason, B. (2013). Service design from insight to implementation. Brooklyn, NY: Rosenfeld Media. 
+* Rogers, Y., Sharp, H., & Preece, J. (2014). Interaction design: beyond human-computer interaction. Chichester: Wiley. 
+* Tidwell, J. (2011). Designing interfaces. Sebastopol: OReilly. 
