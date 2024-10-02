@@ -1,6 +1,8 @@
 [overview](README.md) | [references](references.md) | [sessions](sessions.md)
 
-# ID2
+[https://giu-media.github.io/id2](https://giu-media.github.io/id2)
+
+# Interaction Design 2
 course materials for Interaction Design 2 
 Fall semester 2024
 
