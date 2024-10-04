@@ -2,6 +2,23 @@
 
 # Sessions
 
+Lecture sessions will be in 2x 1.5 hrs blocks on alternate weeks:
+Workshop sessions will be self directed with the support of a Teaching Assistant on alternatve weeks
+## Lecture schedule for autumn 20204 is as follows;
+
+* 2 October 12:15 - 13:45 / 16:00 - 17:30 Double Lecture 
+* w/c 7 October self directed workshops
+* 17 October 14:15 - 17:30 Double Lecture
+* w/c 28 Mid term exams and team checkin
+* w/c 4 November self directed workshops
+* 14 November 14:15 - 17:30 Double Lecture
+* w/c 18 November self directed workshops
+* 28 November 14:15 - 17:30 Double Lecture
+* w/c 2 December self directed workshops
+* 12 December 14:15 - 17:30 Double Lecture
+* 19 December 14:15 - 17:30 Double Lecture and review session
+ 
+NB all sessions in Bike Market unless otherwise notified
 # Session 1
 introduction to the lecture series, overview of the assignment, introduction to the 5 Layer model of web design 
 [slideset session 1](ID2-WS-24-09-10_IntroLecture%20sml.pdf) 
