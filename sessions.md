@@ -4,7 +4,7 @@
 
 Lecture sessions will be in 2x 1.5 hrs blocks on alternate weeks:
 Workshop sessions will be self directed with the support of a Teaching Assistant on alternatve weeks
-## Lecture schedule for autumn 20204 is as follows;
+## Lecture schedule for autumn 2024 is as follows;
 
 * 2 October 12:15 - 13:45 / 16:00 - 17:30 Double Lecture 
 * w/c 7 October self directed workshops
