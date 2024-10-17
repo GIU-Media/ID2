@@ -58,16 +58,43 @@ Develop your concept and create a 1 minute pitch for each concept using 6Ws, nam
 ### FIGMA ANIMATION TASK – Parallax animation – bring Figma file and small video
 
 # Session 3
-session description
-[slideset session 3]() 
+Exploring a Case Study
+Investigating how design and functional patterns and visual consistency work with examples.
+* Functional patterns are behaviours you enable the user to do
+* Functional patterns are page types
+* Functional patterns are UI-elements
+  
+[slideset session 3](ID2-WS-24-03_case_study.pdf) 
 
 ## workshop / homework task
+Each member of group develops one persona and one user journey. 
+
+* Persona: 
+Develop 3 diverse personas per group (expert user, inexperienced user, extreme user) 
+
+Use interviews and knowledge of people in your target groups. Combine insights discovered into your persona.   
+* User journey: 
+Develop a detailed user journey for your persona for your concept. 
+
+Remember do not include your website in your user journey, the user journey is what similar activity your users did before your website existed to find out what kind of happy/pain moments and questions your website can improve and then find the function opportunities for your site.
+
+Continue your research, find out more about your topic, interview your target,  do field research on the ground.  Examples can be found on the CMS to recap from last semester.
+
 
 # Session 4
-session description
-[slideset session 4]() 
+Exploriong Perceptual Patterns
+[slideset session 4](ID2-WS24-04.pdf) 
 
 ## workshop / homework task
+Make a brand narrative statement for your chosen client
+create a descrition and scope including
+* Function list
+* Functional statements
+* Emotional statements
+* Brand values and perception
+* Brand narrative
+* Wireframe your static (not animated) start page in Figma
+
 
 # Session 5
 session description
