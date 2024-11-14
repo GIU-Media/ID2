@@ -98,26 +98,39 @@ create a descrition and scope including
 
 # Session 5
 session description
-[slideset session 5]() 
+[slideset session 5](ID2-WS24-05.pdf) 
+* Exploring a Dashboard/Personalised homepage
 
+* User behaviours
+Online user behaviours are actions users take on a website while trying to
+perform a function: where and what they click on, scrolling down a page,
+where they get lost, and where they eventually leave. Testing this is very
+useful for website optimisation.
 ## workshop / homework task
 
 # Session 6
 session description
-[slideset session 6]() 
-
-## workshop / homework task
+[slideset session 6](ID2-WS24-06_Task_Midterm_Intro.pdf) 
+* Mid term overview and tasks
+* 
+## MID-TERM EVALUATION and PRESENTATION
 
 # Session 7
 session description
-[slideset session 7]() 
+[slideset session 7](ID2-WS-24-07.pdf) 
+exploring motion in information and brand flow. 
 
 ## workshop / homework task
 
 # Session 8
 session description
-[slideset session 8]() 
-
+[slideset session 8](ID2-WS24-08.pdf) 
+* responsive design
+* grids and breakpoints
+* vertical spacing
+* type systems
+* legibility and usability in text
+  
 ## workshop / homework task
 
 # Session 9
