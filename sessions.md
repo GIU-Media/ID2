@@ -61,6 +61,8 @@ Develop your concept and create a 1 minute pitch for each concept using 6Ws, nam
 
 # Session 3
 Exploring a Case Study
+
+
 Investigating how design and functional patterns and visual consistency work with examples.
 * Functional patterns are behaviours you enable the user to do
 * Functional patterns are page types
@@ -113,20 +115,23 @@ useful for website optimisation.
 # Session 6
 session description
 [slideset session 6](ID2-WS24-06_Task_Midterm_Intro.pdf) 
+
 * Mid term overview and tasks
-* 
+* Presentation detail
 ## MID-TERM EVALUATION and PRESENTATION
 
 # Session 7
 session description
 [slideset session 7](ID2-WS-24-07.pdf) 
-exploring motion in information and brand flow. 
+
+* exploring motion in information and brand flow. 
 
 ## workshop / homework task
 
 # Session 8
 session description
 [slideset session 8](ID2-WS24-08.pdf) 
+
 * responsive design
 * grids and breakpoints
 * vertical spacing
