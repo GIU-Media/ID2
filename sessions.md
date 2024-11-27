@@ -141,22 +141,24 @@ session description
 
 # Session 9
 session description
-[slideset session 9]() 
+[slideset session 9](ID2-WS-23-09.pdf) 
 
+* reviewing style guide documentations
+  
 ## workshop / homework task
 
 # Session 10
 session description
-[slideset session 10]() 
+[slideset session 10](ID2-WS-23-10.pdf) 
 
-## workshop / homework task
+* accessibility what and how and why?
+* video overview https://www.youtube.com/watch?v=TAzkrXTGEOM&t=143s
 
-# Session 11
+## workshop / homework task\
+* preparation for submission
+
+# Session 11 and 12
 session description
-[slideset session 11]() 
 
-## workshop / homework task
+## bookabkle project reviews
 
-# Session 12
-session description
-[slideset session 12]() 
