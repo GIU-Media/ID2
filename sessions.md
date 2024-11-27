@@ -141,7 +141,7 @@ session description
 
 # Session 9
 session description
-[slideset session 9](ID2-WS-23-09.pdf) 
+[slideset session 9](ID2-WS-24-09.pdf) 
 
 * reviewing style guide documentations
   
@@ -149,7 +149,7 @@ session description
 
 # Session 10
 session description
-[slideset session 10](ID2-WS-23-10.pdf) 
+[slideset session 10](ID2-WS-24-10.pdf) 
 
 * accessibility what and how and why?
 * video overview https://www.youtube.com/watch?v=TAzkrXTGEOM&t=143s
