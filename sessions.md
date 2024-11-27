@@ -149,7 +149,7 @@ session description
 
 # Session 10
 session description
-[slideset session 10](ID2-WS-24-10.pdf) 
+[slideset session 10](ID2-WS24-10.pdf) 
 
 * accessibility what and how and why?
 * video overview https://www.youtube.com/watch?v=TAzkrXTGEOM&t=143s
@@ -160,5 +160,5 @@ session description
 # Session 11 and 12
 session description
 
-## bookabkle project reviews
+## bookable project reviews 
 
