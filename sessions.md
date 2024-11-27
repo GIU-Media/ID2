@@ -17,8 +17,7 @@ Workshop sessions will be self directed with the support of a Teaching Assistant
 * Thursday 21 November Online tutorials
 * 28 November 14:15 - 17:30 Double Lecture
 * w/c 2 December self directed workshops
-* 12 December 14:15 - 17:30 Double Lecture
-* 19 December 14:15 - 17:30 Double Lecture and review session
+* 11 December 14:15 - 17:30 Double Lecture and review session
  
 NB all sessions in Bike Market unless otherwise notified
 # Session 1
