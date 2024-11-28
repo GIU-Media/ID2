@@ -70,6 +70,9 @@ Students must provide their personal computers (laptops), and Adobe Creative Clo
 
 Software: Figma, Adobe InDesign, Illustrator, Photoshop 
 
+
+* download assessment folder structure [example file](Interaction II Final Submission Folder.zip)
+  
 # Assessment / Course Weights  
 * Assignments 30% 
 * Midterm 10% 
