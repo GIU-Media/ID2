@@ -142,7 +142,7 @@ session description
 
 # Session 9
 session description
-[slideset session 9](ID2-WS24-04.pdf) 
+[slideset session 9](ID2-WS-24-09.pdf) 
 
 * reviewing style guide documentations
   
